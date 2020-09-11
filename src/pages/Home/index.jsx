@@ -10,7 +10,7 @@ export default function Home (){
         Seja bem vindo ao DevConnect !
       </h1>
       <h3>
-        Somos um rede social com intenção de conectar developers do mundo inteiro !!
+        Somos uma rede social com intenção de conectar developers do mundo inteiro !!
       </h3>
 
       <p>publicações</p>
